@@ -1,0 +1,13 @@
+body {
+  padding: 20px;
+  color: white;
+  background-color: rgb(1, 7, 20);
+}
+
+button {
+  margin-right: 10px;
+}
+
+a {
+  margin-right: 5px;
+}
